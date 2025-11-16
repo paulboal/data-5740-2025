@@ -1,0 +1,726 @@
+cardholder_id,department,avg_transaction_amount,transactions_per_month,pct_weekend_transactions
+CARD_0001,Field Marketing,730.47,6.0,0.33
+CARD_0002,Field Marketing,596.0,8.0,0.37
+CARD_0003,Field Marketing,775.05,5.0,0.43
+CARD_0004,Public Outreach,794.06,6.0,0.31
+CARD_0005,Public Outreach,504.9,1.0,0.4
+CARD_0006,Field Marketing,569.78,5.0,0.32
+CARD_0007,Field Marketing,712.78,3.0,0.34
+CARD_0008,Public Outreach,668.38,3.0,0.43
+CARD_0009,Public Outreach,698.32,3.0,0.15
+CARD_0010,Public Outreach,614.7,4.0,0.22
+CARD_0011,Field Marketing,787.94,7.0,0.2
+CARD_0012,Public Outreach,777.78,2.0,0.12
+CARD_0013,Field Marketing,706.6,5.0,0.28
+CARD_0014,Public Outreach,812.72,4.0,0.42
+CARD_0015,Field Marketing,746.75,4.0,0.32
+CARD_0016,Field Marketing,614.07,7.0,0.37
+CARD_0017,Field Marketing,736.88,6.0,0.46
+CARD_0018,Field Marketing,604.11,8.0,0.48
+CARD_0019,Public Outreach,787.85,5.0,0.34
+CARD_0020,Field Marketing,695.01,4.0,0.49
+CARD_0021,Field Marketing,681.51,5.0,0.36
+CARD_0022,Field Marketing,631.91,5.0,0.27
+CARD_0023,Public Outreach,822.25,5.0,0.29
+CARD_0024,Public Outreach,684.55,3.0,0.2
+CARD_0025,Public Outreach,657.17,5.0,0.26
+CARD_0026,Public Outreach,664.79,5.0,0.31
+CARD_0027,Public Outreach,753.23,10.0,0.43
+CARD_0028,Public Outreach,736.54,9.0,0.52
+CARD_0029,Field Marketing,741.27,3.0,0.21
+CARD_0030,Public Outreach,743.08,4.0,0.39
+CARD_0031,Public Outreach,914.16,2.0,0.25
+CARD_0032,Public Outreach,659.36,4.0,0.4
+CARD_0033,Field Marketing,648.78,6.0,0.34
+CARD_0034,Public Outreach,618.62,7.0,0.17
+CARD_0035,Field Marketing,761.6,4.0,0.44
+CARD_0036,Field Marketing,812.9,4.0,0.29
+CARD_0037,Public Outreach,688.61,1.0,0.3
+CARD_0038,Field Marketing,615.98,5.0,0.24
+CARD_0039,Field Marketing,617.55,3.0,0.28
+CARD_0040,Public Outreach,765.06,4.0,0.39
+CARD_0041,Field Marketing,774.33,3.0,0.33
+CARD_0042,Public Outreach,754.32,5.0,0.38
+CARD_0043,Field Marketing,633.45,1.0,0.39
+CARD_0044,Field Marketing,723.22,2.0,0.48
+CARD_0045,Public Outreach,711.67,9.0,0.32
+CARD_0046,Public Outreach,721.87,2.0,0.2
+CARD_0047,Field Marketing,787.14,3.0,0.46
+CARD_0048,Public Outreach,722.36,9.0,0.32
+CARD_0049,Public Outreach,767.89,11.0,0.46
+CARD_0050,Field Marketing,706.76,3.0,0.39
+CARD_0051,Public Outreach,728.91,4.0,0.34
+CARD_0052,Field Marketing,763.13,6.0,0.38
+CARD_0053,Public Outreach,554.28,8.0,0.55
+CARD_0054,Public Outreach,668.03,3.0,0.56
+CARD_0055,Public Outreach,652.96,5.0,0.36
+CARD_0056,Public Outreach,636.11,7.0,0.37
+CARD_0057,Field Marketing,672.49,6.0,0.46
+CARD_0058,Field Marketing,849.49,4.0,0.27
+CARD_0059,Field Marketing,613.42,5.0,0.38
+CARD_0060,Public Outreach,796.83,2.0,0.35
+CARD_0061,Public Outreach,531.71,5.0,0.38
+CARD_0062,Field Marketing,666.51,4.0,0.27
+CARD_0063,Public Outreach,716.28,5.0,0.19
+CARD_0064,Public Outreach,758.62,4.0,0.14
+CARD_0065,Public Outreach,771.12,6.0,0.24
+CARD_0066,Field Marketing,779.33,7.0,0.3
+CARD_0067,Public Outreach,665.13,5.0,0.32
+CARD_0068,Public Outreach,653.76,6.0,0.54
+CARD_0069,Field Marketing,785.8,5.0,0.46
+CARD_0070,Field Marketing,680.87,5.0,0.25
+CARD_0071,Field Marketing,572.43,4.0,0.38
+CARD_0072,Field Marketing,586.67,6.0,0.31
+CARD_0073,Public Outreach,608.05,5.0,0.32
+CARD_0074,Public Outreach,749.72,9.0,0.37
+CARD_0075,Public Outreach,714.24,8.0,0.41
+CARD_0076,Field Marketing,769.05,6.0,0.32
+CARD_0077,Public Outreach,657.27,3.0,0.46
+CARD_0078,Field Marketing,715.85,3.0,0.24
+CARD_0079,Public Outreach,762.56,7.0,0.35
+CARD_0080,Field Marketing,669.07,6.0,0.61
+CARD_0081,Field Marketing,745.68,6.0,0.37
+CARD_0082,Public Outreach,633.81,2.0,0.49
+CARD_0083,Field Marketing,663.69,7.0,0.36
+CARD_0084,Public Outreach,661.83,6.0,0.41
+CARD_0085,Public Outreach,580.42,3.0,0.34
+CARD_0086,Public Outreach,748.7,4.0,0.33
+CARD_0087,Public Outreach,653.06,6.0,0.27
+CARD_0088,Field Marketing,701.25,5.0,0.39
+CARD_0089,Public Outreach,748.07,4.0,0.26
+CARD_0090,Field Marketing,744.65,5.0,0.42
+CARD_0091,Public Outreach,766.54,4.0,0.46
+CARD_0092,Field Marketing,690.15,5.0,0.39
+CARD_0093,Field Marketing,657.67,8.0,0.32
+CARD_0094,Public Outreach,692.03,1.0,0.4
+CARD_0095,Field Marketing,531.27,5.0,0.32
+CARD_0096,Public Outreach,555.29,5.0,0.44
+CARD_0097,Public Outreach,567.73,6.0,0.17
+CARD_0098,Public Outreach,600.28,4.0,0.32
+CARD_0099,Public Outreach,739.98,1.0,0.15
+CARD_0100,Public Outreach,609.45,6.0,0.2
+CARD_0101,Field Marketing,662.18,8.0,0.49
+CARD_0102,Field Marketing,829.92,2.0,0.44
+CARD_0103,Field Marketing,664.37,7.0,0.28
+CARD_0104,Public Outreach,773.75,4.0,0.2
+CARD_0105,Field Marketing,606.64,5.0,0.05
+CARD_0106,Field Marketing,679.46,3.0,0.3
+CARD_0107,Field Marketing,605.0,4.0,0.59
+CARD_0108,Field Marketing,666.1,8.0,0.39
+CARD_0109,Field Marketing,784.03,6.0,0.29
+CARD_0110,Field Marketing,527.27,8.0,0.4
+CARD_0111,Field Marketing,743.44,7.0,0.19
+CARD_0112,Field Marketing,723.77,6.0,0.32
+CARD_0113,Field Marketing,640.59,8.0,0.36
+CARD_0114,Field Marketing,555.39,6.0,0.34
+CARD_0115,Public Outreach,707.21,7.0,0.43
+CARD_0116,Field Marketing,647.05,4.0,0.38
+CARD_0117,Field Marketing,723.27,5.0,0.42
+CARD_0118,Field Marketing,702.19,4.0,0.28
+CARD_0119,Public Outreach,860.18,7.0,0.44
+CARD_0120,Public Outreach,676.06,3.0,0.51
+CARD_0121,Public Outreach,597.65,7.0,0.25
+CARD_0122,Field Marketing,717.93,5.0,0.26
+CARD_0123,Field Marketing,722.0,7.0,0.48
+CARD_0124,Field Marketing,835.92,7.0,0.33
+CARD_0125,Public Outreach,783.51,9.0,0.49
+CARD_0126,Public Outreach,735.69,6.0,0.31
+CARD_0127,Public Outreach,846.33,2.0,0.5
+CARD_0128,Public Outreach,581.12,5.0,0.36
+CARD_0129,Public Outreach,636.02,3.0,0.38
+CARD_0130,Public Outreach,607.34,4.0,0.51
+CARD_0131,Public Outreach,661.02,8.0,0.31
+CARD_0132,Field Marketing,562.33,6.0,0.26
+CARD_0133,Field Marketing,763.52,4.0,0.31
+CARD_0134,Public Outreach,677.78,3.0,0.4
+CARD_0135,Field Marketing,552.92,5.0,0.19
+CARD_0136,Field Marketing,598.44,3.0,0.41
+CARD_0137,Public Outreach,731.35,4.0,0.3
+CARD_0138,Field Marketing,783.81,6.0,0.46
+CARD_0139,Public Outreach,899.67,7.0,0.11
+CARD_0140,Public Outreach,991.39,6.0,0.27
+CARD_0141,Field Marketing,741.44,1.0,0.18
+CARD_0142,Public Outreach,601.05,6.0,0.27
+CARD_0143,Public Outreach,486.8,5.0,0.37
+CARD_0144,Public Outreach,726.77,6.0,0.33
+CARD_0145,Field Marketing,618.71,8.0,0.32
+CARD_0146,Public Outreach,658.46,1.0,0.33
+CARD_0147,Public Outreach,638.79,4.0,0.37
+CARD_0148,Public Outreach,685.92,6.0,0.25
+CARD_0149,Field Marketing,806.6,2.0,0.42
+CARD_0150,Field Marketing,715.7,8.0,0.42
+CARD_0151,Public Outreach,684.14,6.0,0.39
+CARD_0152,Field Marketing,596.43,7.0,0.41
+CARD_0153,Field Marketing,532.53,4.0,0.38
+CARD_0154,Field Marketing,651.37,7.0,0.55
+CARD_0155,Field Marketing,694.62,7.0,0.34
+CARD_0156,Field Marketing,876.79,5.0,0.32
+CARD_0157,Field Marketing,713.03,5.0,0.27
+CARD_0158,Public Outreach,798.27,6.0,0.25
+CARD_0159,Field Marketing,650.07,3.0,0.23
+CARD_0160,Field Marketing,581.51,5.0,0.26
+CARD_0161,Field Marketing,603.49,5.0,0.34
+CARD_0162,Public Outreach,627.48,6.0,0.38
+CARD_0163,Field Marketing,912.85,7.0,0.36
+CARD_0164,Public Outreach,617.86,3.0,0.27
+CARD_0165,Public Outreach,783.85,5.0,0.44
+CARD_0166,Public Outreach,609.71,8.0,0.42
+CARD_0167,Public Outreach,793.16,4.0,0.33
+CARD_0168,Field Marketing,738.5,3.0,0.28
+CARD_0169,Public Outreach,684.34,5.0,0.4
+CARD_0170,Field Marketing,695.92,7.0,0.37
+CARD_0171,Public Outreach,634.52,5.0,0.21
+CARD_0172,Public Outreach,744.61,8.0,0.34
+CARD_0173,Public Outreach,654.5,7.0,0.38
+CARD_0174,Public Outreach,577.44,7.0,0.26
+CARD_0175,Field Marketing,572.21,6.0,0.37
+CARD_0176,Public Outreach,717.26,10.0,0.2
+CARD_0177,Public Outreach,857.91,5.0,0.48
+CARD_0178,Public Outreach,716.0,1.0,0.47
+CARD_0179,Field Marketing,688.14,8.0,0.32
+CARD_0180,Public Outreach,728.58,4.0,0.39
+CARD_0181,Field Marketing,830.6,5.0,0.11
+CARD_0182,Field Marketing,721.94,8.0,0.23
+CARD_0183,Field Marketing,658.91,2.0,0.32
+CARD_0184,Public Outreach,810.63,2.0,0.24
+CARD_0185,Field Marketing,742.88,2.0,0.42
+CARD_0186,Field Marketing,853.58,3.0,0.55
+CARD_0187,Field Marketing,718.32,6.0,0.23
+CARD_0188,Public Outreach,577.55,6.0,0.27
+CARD_0189,Field Marketing,563.18,6.0,0.37
+CARD_0190,Public Outreach,865.09,2.0,0.51
+CARD_0191,Public Outreach,872.37,1.0,0.23
+CARD_0192,Public Outreach,682.05,5.0,0.37
+CARD_0193,Public Outreach,661.68,4.0,0.53
+CARD_0194,Field Marketing,846.14,6.0,0.18
+CARD_0195,Field Marketing,589.3,6.0,0.22
+CARD_0196,Field Marketing,610.53,5.0,0.31
+CARD_0197,Public Outreach,764.33,7.0,0.3
+CARD_0198,Public Outreach,660.54,5.0,0.43
+CARD_0199,Public Outreach,699.49,6.0,0.37
+CARD_0200,Field Marketing,683.66,4.0,0.17
+CARD_0201,Administration,76.53,27.0,0.07
+CARD_0202,Finance,30.39,29.0,0.02
+CARD_0203,Finance,71.09,26.0,0.04
+CARD_0204,Finance,72.55,26.0,0.03
+CARD_0205,Administration,93.97,29.0,0.03
+CARD_0206,Public Works,133.39,25.0,0.05
+CARD_0207,Administration,92.65,21.0,0.01
+CARD_0208,Administration,69.08,23.0,0.06
+CARD_0209,Public Works,98.29,28.0,0.07
+CARD_0210,Public Works,131.48,25.0,0.04
+CARD_0211,Administration,70.72,27.0,0.0
+CARD_0212,Public Works,72.68,28.0,0.03
+CARD_0213,Public Works,116.76,23.0,0.07
+CARD_0214,Administration,93.35,29.0,0.0
+CARD_0215,Finance,119.42,27.0,0.04
+CARD_0216,Finance,99.59,19.0,0.03
+CARD_0217,Administration,121.05,32.0,0.07
+CARD_0218,Administration,68.95,22.0,0.04
+CARD_0219,Administration,99.64,17.0,0.06
+CARD_0220,Administration,93.68,20.0,0.06
+CARD_0221,Finance,63.52,20.0,0.09
+CARD_0222,Finance,53.1,25.0,0.05
+CARD_0223,Administration,120.57,24.0,0.06
+CARD_0224,Administration,89.47,23.0,0.02
+CARD_0225,Administration,69.33,28.0,0.07
+CARD_0226,Public Works,97.11,27.0,0.03
+CARD_0227,Administration,133.84,27.0,0.04
+CARD_0228,Public Works,31.58,27.0,0.05
+CARD_0229,Finance,55.1,28.0,0.02
+CARD_0230,Public Works,72.31,14.0,0.05
+CARD_0231,Finance,143.84,23.0,0.07
+CARD_0232,Administration,108.48,14.0,0.06
+CARD_0233,Finance,123.02,25.0,0.02
+CARD_0234,Administration,65.8,25.0,0.05
+CARD_0235,Administration,66.41,30.0,0.06
+CARD_0236,Administration,113.43,31.0,0.01
+CARD_0237,Administration,101.75,26.0,0.03
+CARD_0238,Administration,116.46,22.0,0.07
+CARD_0239,Administration,94.37,27.0,0.06
+CARD_0240,Public Works,108.34,22.0,0.06
+CARD_0241,Finance,104.74,25.0,0.09
+CARD_0242,Finance,123.33,30.0,0.06
+CARD_0243,Public Works,124.21,22.0,0.06
+CARD_0244,Administration,51.4,29.0,0.1
+CARD_0245,Finance,32.58,28.0,0.05
+CARD_0246,Public Works,130.05,20.0,0.03
+CARD_0247,Finance,135.63,30.0,0.06
+CARD_0248,Finance,69.38,28.0,0.06
+CARD_0249,Administration,44.2,26.0,0.04
+CARD_0250,Administration,102.97,21.0,0.03
+CARD_0251,Administration,127.93,21.0,0.1
+CARD_0252,Administration,153.93,22.0,0.06
+CARD_0253,Public Works,115.49,28.0,0.04
+CARD_0254,Finance,88.85,20.0,0.07
+CARD_0255,Finance,73.21,27.0,0.05
+CARD_0256,Public Works,100.34,19.0,0.04
+CARD_0257,Administration,91.02,24.0,0.06
+CARD_0258,Administration,69.55,26.0,0.02
+CARD_0259,Finance,161.46,37.0,0.06
+CARD_0260,Public Works,153.56,18.0,0.09
+CARD_0261,Finance,134.08,32.0,0.06
+CARD_0262,Public Works,72.37,26.0,0.04
+CARD_0263,Administration,125.65,27.0,0.04
+CARD_0264,Public Works,119.19,26.0,0.04
+CARD_0265,Administration,113.28,27.0,0.04
+CARD_0266,Administration,137.49,24.0,0.04
+CARD_0267,Finance,119.06,32.0,0.07
+CARD_0268,Administration,122.2,23.0,0.02
+CARD_0269,Public Works,119.11,31.0,0.07
+CARD_0270,Public Works,110.22,22.0,0.04
+CARD_0271,Finance,46.49,25.0,0.06
+CARD_0272,Administration,102.51,20.0,0.03
+CARD_0273,Administration,83.31,27.0,0.08
+CARD_0274,Finance,61.6,32.0,0.07
+CARD_0275,Finance,150.45,25.0,0.07
+CARD_0276,Public Works,151.87,24.0,0.02
+CARD_0277,Finance,140.78,19.0,0.07
+CARD_0278,Administration,107.66,24.0,0.06
+CARD_0279,Administration,140.52,17.0,0.02
+CARD_0280,Public Works,100.36,20.0,0.05
+CARD_0281,Administration,106.08,26.0,0.06
+CARD_0282,Public Works,67.2,32.0,0.06
+CARD_0283,Administration,111.91,39.0,0.05
+CARD_0284,Public Works,101.81,22.0,0.06
+CARD_0285,Public Works,60.92,32.0,0.08
+CARD_0286,Finance,98.46,26.0,0.07
+CARD_0287,Administration,97.61,24.0,0.0
+CARD_0288,Public Works,153.93,27.0,0.04
+CARD_0289,Administration,126.83,25.0,0.05
+CARD_0290,Finance,100.34,26.0,0.01
+CARD_0291,Public Works,107.46,23.0,0.05
+CARD_0292,Public Works,101.33,18.0,0.07
+CARD_0293,Administration,93.91,17.0,0.03
+CARD_0294,Public Works,67.53,28.0,0.06
+CARD_0295,Administration,95.47,24.0,0.03
+CARD_0296,Public Works,77.62,22.0,0.04
+CARD_0297,Finance,62.49,25.0,0.08
+CARD_0298,Administration,115.34,29.0,0.04
+CARD_0299,Finance,111.74,26.0,0.06
+CARD_0300,Administration,46.4,22.0,0.01
+CARD_0301,Public Works,96.32,31.0,0.09
+CARD_0302,Administration,129.87,33.0,0.06
+CARD_0303,Administration,131.78,27.0,0.05
+CARD_0304,Finance,130.78,30.0,0.06
+CARD_0305,Public Works,101.17,31.0,0.02
+CARD_0306,Finance,74.65,31.0,0.07
+CARD_0307,Finance,67.49,28.0,0.04
+CARD_0308,Finance,110.34,28.0,0.05
+CARD_0309,Public Works,111.38,28.0,0.04
+CARD_0310,Finance,138.62,20.0,0.04
+CARD_0311,Public Works,133.0,29.0,0.06
+CARD_0312,Public Works,96.03,18.0,0.06
+CARD_0313,Public Works,62.67,21.0,0.06
+CARD_0314,Public Works,90.43,32.0,0.05
+CARD_0315,Public Works,106.52,29.0,0.06
+CARD_0316,Administration,93.94,32.0,0.04
+CARD_0317,Public Works,82.66,24.0,0.09
+CARD_0318,Public Works,107.59,19.0,0.02
+CARD_0319,Administration,84.88,24.0,0.08
+CARD_0320,Public Works,81.16,26.0,0.08
+CARD_0321,Administration,109.34,25.0,0.03
+CARD_0322,Finance,87.94,31.0,0.09
+CARD_0323,Public Works,107.32,23.0,0.07
+CARD_0324,Administration,108.2,27.0,0.07
+CARD_0325,Finance,65.82,20.0,0.05
+CARD_0326,Public Works,85.56,27.0,0.05
+CARD_0327,Finance,143.13,25.0,0.05
+CARD_0328,Public Works,65.14,21.0,0.06
+CARD_0329,Administration,36.5,24.0,0.08
+CARD_0330,Public Works,44.14,24.0,0.05
+CARD_0331,Public Works,100.87,24.0,0.03
+CARD_0332,Public Works,100.93,34.0,0.07
+CARD_0333,Administration,96.47,25.0,0.07
+CARD_0334,Public Works,136.43,24.0,0.06
+CARD_0335,Finance,19.81,15.0,0.06
+CARD_0336,Finance,111.88,21.0,0.04
+CARD_0337,Finance,146.84,24.0,0.03
+CARD_0338,Finance,66.17,22.0,0.03
+CARD_0339,Finance,88.61,32.0,0.02
+CARD_0340,Finance,77.41,24.0,0.05
+CARD_0341,Administration,73.17,31.0,0.05
+CARD_0342,Public Works,90.21,25.0,0.04
+CARD_0343,Administration,142.82,25.0,0.0
+CARD_0344,Administration,155.12,25.0,0.03
+CARD_0345,Finance,89.92,25.0,0.07
+CARD_0346,Finance,157.15,34.0,0.04
+CARD_0347,Finance,101.07,13.0,0.06
+CARD_0348,Public Works,152.61,15.0,0.02
+CARD_0349,Administration,97.2,22.0,0.08
+CARD_0350,Administration,103.93,25.0,0.05
+CARD_0351,Finance,110.96,28.0,0.06
+CARD_0352,Public Works,195.37,27.0,0.1
+CARD_0353,Finance,125.54,23.0,0.08
+CARD_0354,Finance,78.78,30.0,0.04
+CARD_0355,Finance,129.07,30.0,0.04
+CARD_0356,Public Works,89.15,26.0,0.04
+CARD_0357,Finance,85.31,30.0,0.06
+CARD_0358,Public Works,127.26,26.0,0.05
+CARD_0359,Public Works,100.93,22.0,0.04
+CARD_0360,Administration,108.36,28.0,0.08
+CARD_0361,Administration,100.42,26.0,0.05
+CARD_0362,Public Works,110.1,25.0,0.1
+CARD_0363,Administration,112.75,32.0,0.05
+CARD_0364,Finance,41.89,13.0,0.09
+CARD_0365,Administration,120.0,18.0,0.06
+CARD_0366,Finance,70.54,19.0,0.07
+CARD_0367,Administration,56.73,23.0,0.04
+CARD_0368,Finance,98.25,24.0,0.03
+CARD_0369,Public Works,102.52,17.0,0.06
+CARD_0370,Public Works,79.19,20.0,0.07
+CARD_0371,Public Works,124.93,21.0,0.05
+CARD_0372,Administration,59.73,37.0,0.02
+CARD_0373,Finance,87.79,34.0,0.02
+CARD_0374,Administration,82.45,23.0,0.02
+CARD_0375,Public Works,98.6,23.0,0.01
+CARD_0376,Public Works,108.37,19.0,0.05
+CARD_0377,Administration,69.76,15.0,0.07
+CARD_0378,Finance,121.73,24.0,0.05
+CARD_0379,Finance,101.89,20.0,0.0
+CARD_0380,Finance,43.24,25.0,0.05
+CARD_0381,Finance,41.24,17.0,0.05
+CARD_0382,Administration,99.63,21.0,0.09
+CARD_0383,Finance,93.37,26.0,0.02
+CARD_0384,Finance,96.9,27.0,0.04
+CARD_0385,Public Works,99.16,27.0,0.08
+CARD_0386,Public Works,106.77,18.0,0.06
+CARD_0387,Public Works,128.43,29.0,0.06
+CARD_0388,Administration,66.67,21.0,0.05
+CARD_0389,Public Works,64.84,28.0,0.06
+CARD_0390,Finance,67.2,25.0,0.07
+CARD_0391,Finance,108.67,18.0,0.03
+CARD_0392,Public Works,137.35,23.0,0.07
+CARD_0393,Public Works,87.06,27.0,0.02
+CARD_0394,Administration,24.95,28.0,0.06
+CARD_0395,Finance,48.88,24.0,0.05
+CARD_0396,Public Works,75.01,33.0,0.04
+CARD_0397,Finance,83.27,30.0,0.05
+CARD_0398,Administration,87.75,24.0,0.04
+CARD_0399,Finance,101.16,29.0,0.03
+CARD_0400,Public Works,90.65,35.0,0.04
+CARD_0401,Administration,131.48,35.0,0.03
+CARD_0402,Public Works,79.72,19.0,0.06
+CARD_0403,Public Works,74.13,20.0,0.03
+CARD_0404,Public Works,114.37,32.0,0.06
+CARD_0405,Administration,53.93,20.0,0.03
+CARD_0406,Administration,111.69,18.0,0.04
+CARD_0407,Finance,103.08,23.0,0.04
+CARD_0408,Finance,95.58,27.0,0.08
+CARD_0409,Finance,147.65,24.0,0.06
+CARD_0410,Public Works,81.33,22.0,0.05
+CARD_0411,Public Works,161.81,22.0,0.06
+CARD_0412,Administration,93.24,21.0,0.01
+CARD_0413,Public Works,61.69,21.0,0.05
+CARD_0414,Administration,102.1,36.0,0.09
+CARD_0415,Finance,67.71,26.0,0.05
+CARD_0416,Administration,77.45,29.0,0.05
+CARD_0417,Finance,111.91,23.0,0.06
+CARD_0418,Public Works,116.67,24.0,0.07
+CARD_0419,Finance,81.33,21.0,0.01
+CARD_0420,Public Works,129.62,12.0,0.02
+CARD_0421,Administration,134.73,18.0,0.05
+CARD_0422,Finance,143.09,16.0,0.04
+CARD_0423,Finance,115.88,14.0,0.08
+CARD_0424,Public Works,140.9,19.0,0.04
+CARD_0425,Public Works,43.58,32.0,0.01
+CARD_0426,Finance,90.46,25.0,0.02
+CARD_0427,Administration,73.99,31.0,0.0
+CARD_0428,Finance,103.58,27.0,0.05
+CARD_0429,Administration,82.86,29.0,0.05
+CARD_0430,Finance,95.02,20.0,0.04
+CARD_0431,Administration,156.47,28.0,0.07
+CARD_0432,Finance,94.91,29.0,0.07
+CARD_0433,Administration,112.41,22.0,0.05
+CARD_0434,Administration,93.03,28.0,0.01
+CARD_0435,Administration,102.27,28.0,0.06
+CARD_0436,Public Works,100.18,22.0,0.06
+CARD_0437,Public Works,113.45,19.0,0.06
+CARD_0438,Public Works,134.96,19.0,0.07
+CARD_0439,Administration,149.42,25.0,0.03
+CARD_0440,Finance,109.29,27.0,0.09
+CARD_0441,Public Works,117.69,21.0,0.03
+CARD_0442,Finance,65.47,25.0,0.06
+CARD_0443,Administration,97.36,28.0,0.02
+CARD_0444,Administration,128.21,28.0,0.03
+CARD_0445,Administration,125.98,33.0,0.08
+CARD_0446,Public Works,106.35,31.0,0.04
+CARD_0447,Administration,126.59,20.0,0.07
+CARD_0448,Public Works,114.72,33.0,0.05
+CARD_0449,Public Works,136.01,22.0,0.05
+CARD_0450,Public Works,108.68,30.0,0.08
+CARD_0451,Public Works,89.33,25.0,0.05
+CARD_0452,Administration,110.08,23.0,0.01
+CARD_0453,Public Works,12.08,16.0,0.03
+CARD_0454,Administration,111.49,24.0,0.06
+CARD_0455,Administration,10.0,17.0,0.06
+CARD_0456,Administration,48.3,30.0,0.02
+CARD_0457,Administration,113.55,33.0,0.04
+CARD_0458,Administration,114.33,21.0,0.04
+CARD_0459,Administration,65.13,27.0,0.04
+CARD_0460,Administration,78.64,21.0,0.02
+CARD_0461,Finance,141.12,22.0,0.04
+CARD_0462,Administration,85.48,29.0,0.04
+CARD_0463,Administration,167.29,25.0,0.07
+CARD_0464,Public Works,99.94,34.0,0.07
+CARD_0465,Administration,112.24,23.0,0.05
+CARD_0466,Administration,148.51,30.0,0.04
+CARD_0467,Administration,103.93,25.0,0.05
+CARD_0468,Administration,69.93,29.0,0.03
+CARD_0469,Finance,96.71,23.0,0.03
+CARD_0470,Public Works,98.93,25.0,0.03
+CARD_0471,Public Works,59.06,24.0,0.04
+CARD_0472,Finance,92.33,21.0,0.03
+CARD_0473,Administration,77.73,28.0,0.05
+CARD_0474,Public Works,127.73,28.0,0.06
+CARD_0475,Administration,101.04,28.0,0.02
+CARD_0476,Finance,91.52,33.0,0.05
+CARD_0477,Finance,96.81,32.0,0.05
+CARD_0478,Public Works,106.69,23.0,0.06
+CARD_0479,Administration,118.5,27.0,0.05
+CARD_0480,Finance,70.01,22.0,0.02
+CARD_0481,Finance,68.75,25.0,0.02
+CARD_0482,Finance,133.14,22.0,0.05
+CARD_0483,Public Works,87.63,33.0,0.07
+CARD_0484,Public Works,57.49,27.0,0.01
+CARD_0485,Finance,113.31,24.0,0.06
+CARD_0486,Finance,113.9,31.0,0.07
+CARD_0487,Public Works,54.08,14.0,0.05
+CARD_0488,Finance,106.88,15.0,0.06
+CARD_0489,Administration,122.07,29.0,0.04
+CARD_0490,Finance,111.23,25.0,0.05
+CARD_0491,Administration,118.96,26.0,0.02
+CARD_0492,Administration,57.87,18.0,0.0
+CARD_0493,Finance,109.93,25.0,0.07
+CARD_0494,Public Works,90.92,35.0,0.03
+CARD_0495,Public Works,85.52,29.0,0.04
+CARD_0496,Administration,126.12,26.0,0.02
+CARD_0497,Finance,144.38,23.0,0.02
+CARD_0498,Administration,153.83,23.0,0.05
+CARD_0499,Public Works,139.44,14.0,0.04
+CARD_0500,Administration,96.71,26.0,0.06
+CARD_0501,Parks & Rec,102.66,22.0,0.8
+CARD_0502,Parks & Rec,57.2,17.0,0.63
+CARD_0503,Parks & Rec,106.78,26.0,0.54
+CARD_0504,Parks & Rec,70.63,19.0,0.54
+CARD_0505,Parks & Rec,75.58,24.0,0.52
+CARD_0506,Parks & Rec,97.85,23.0,0.67
+CARD_0507,Parks & Rec,77.71,24.0,0.57
+CARD_0508,Parks & Rec,112.32,38.0,0.61
+CARD_0509,Parks & Rec,70.64,28.0,0.59
+CARD_0510,Parks & Rec,74.53,29.0,0.66
+CARD_0511,Parks & Rec,73.59,19.0,0.53
+CARD_0512,Parks & Rec,75.86,25.0,0.51
+CARD_0513,Parks & Rec,117.48,29.0,0.62
+CARD_0514,Parks & Rec,105.72,23.0,0.65
+CARD_0515,Parks & Rec,132.75,33.0,0.63
+CARD_0516,Parks & Rec,146.69,22.0,0.54
+CARD_0517,Parks & Rec,64.23,27.0,0.65
+CARD_0518,Parks & Rec,91.76,25.0,0.54
+CARD_0519,Parks & Rec,60.59,29.0,0.56
+CARD_0520,Parks & Rec,70.56,25.0,0.52
+CARD_0521,Parks & Rec,74.25,27.0,0.7
+CARD_0522,Parks & Rec,63.57,27.0,0.65
+CARD_0523,Parks & Rec,63.7,24.0,0.65
+CARD_0524,Parks & Rec,86.39,30.0,0.7
+CARD_0525,Parks & Rec,59.58,29.0,0.8
+CARD_0526,Parks & Rec,111.05,28.0,0.46
+CARD_0527,Parks & Rec,67.06,26.0,0.54
+CARD_0528,Parks & Rec,160.24,32.0,0.55
+CARD_0529,Parks & Rec,78.72,27.0,0.53
+CARD_0530,Parks & Rec,91.8,26.0,0.51
+CARD_0531,Parks & Rec,57.62,29.0,0.58
+CARD_0532,Parks & Rec,132.65,36.0,0.5
+CARD_0533,Parks & Rec,117.99,21.0,0.63
+CARD_0534,Parks & Rec,97.42,32.0,0.6
+CARD_0535,Parks & Rec,56.33,19.0,0.64
+CARD_0536,Parks & Rec,95.27,29.0,0.64
+CARD_0537,Parks & Rec,61.96,36.0,0.65
+CARD_0538,Parks & Rec,126.56,30.0,0.57
+CARD_0539,Parks & Rec,110.23,29.0,0.77
+CARD_0540,Parks & Rec,92.39,25.0,0.62
+CARD_0541,Parks & Rec,29.09,28.0,0.45
+CARD_0542,Parks & Rec,65.41,27.0,0.52
+CARD_0543,Parks & Rec,107.19,24.0,0.46
+CARD_0544,Parks & Rec,120.32,27.0,0.6
+CARD_0545,Parks & Rec,117.73,29.0,0.59
+CARD_0546,Parks & Rec,50.2,24.0,0.56
+CARD_0547,Parks & Rec,97.54,24.0,0.76
+CARD_0548,Parks & Rec,115.39,21.0,0.64
+CARD_0549,Parks & Rec,48.54,30.0,0.66
+CARD_0550,Parks & Rec,89.8,31.0,0.53
+CARD_0551,Parks & Rec,96.85,29.0,0.52
+CARD_0552,Parks & Rec,82.48,33.0,0.6
+CARD_0553,Parks & Rec,43.7,28.0,0.61
+CARD_0554,Parks & Rec,81.86,30.0,0.45
+CARD_0555,Parks & Rec,81.82,30.0,0.59
+CARD_0556,Parks & Rec,86.3,28.0,0.6
+CARD_0557,Parks & Rec,75.91,25.0,0.58
+CARD_0558,Parks & Rec,78.92,39.0,0.53
+CARD_0559,Parks & Rec,89.01,26.0,0.56
+CARD_0560,Parks & Rec,101.06,25.0,0.59
+CARD_0561,Parks & Rec,82.39,30.0,0.61
+CARD_0562,Parks & Rec,79.76,29.0,0.65
+CARD_0563,Parks & Rec,92.31,21.0,0.69
+CARD_0564,Parks & Rec,41.98,34.0,0.58
+CARD_0565,Parks & Rec,101.93,28.0,0.56
+CARD_0566,Parks & Rec,89.99,22.0,0.64
+CARD_0567,Parks & Rec,90.99,34.0,0.65
+CARD_0568,Parks & Rec,114.02,31.0,0.57
+CARD_0569,Parks & Rec,41.18,22.0,0.66
+CARD_0570,Parks & Rec,40.65,37.0,0.68
+CARD_0571,Parks & Rec,96.85,31.0,0.7
+CARD_0572,Parks & Rec,89.82,28.0,0.74
+CARD_0573,Parks & Rec,94.25,36.0,0.53
+CARD_0574,Parks & Rec,78.45,29.0,0.6
+CARD_0575,Parks & Rec,106.61,28.0,0.6
+CARD_0576,Parks & Rec,113.32,25.0,0.59
+CARD_0577,Parks & Rec,102.1,31.0,0.55
+CARD_0578,Parks & Rec,83.48,30.0,0.48
+CARD_0579,Parks & Rec,37.31,28.0,0.61
+CARD_0580,Parks & Rec,109.23,24.0,0.54
+CARD_0581,Parks & Rec,120.54,29.0,0.61
+CARD_0582,Parks & Rec,106.11,28.0,0.54
+CARD_0583,Parks & Rec,68.01,21.0,0.51
+CARD_0584,Parks & Rec,106.84,21.0,0.62
+CARD_0585,Parks & Rec,111.51,31.0,0.61
+CARD_0586,Parks & Rec,128.97,15.0,0.65
+CARD_0587,Parks & Rec,68.1,29.0,0.77
+CARD_0588,Parks & Rec,84.34,26.0,0.62
+CARD_0589,Parks & Rec,108.68,35.0,0.64
+CARD_0590,Parks & Rec,91.44,26.0,0.51
+CARD_0591,Parks & Rec,62.07,31.0,0.5
+CARD_0592,Parks & Rec,100.37,26.0,0.73
+CARD_0593,Parks & Rec,104.47,29.0,0.53
+CARD_0594,Parks & Rec,92.2,32.0,0.52
+CARD_0595,Parks & Rec,95.49,26.0,0.6
+CARD_0596,Parks & Rec,83.53,33.0,0.59
+CARD_0597,Parks & Rec,126.96,23.0,0.53
+CARD_0598,Parks & Rec,67.48,29.0,0.58
+CARD_0599,Parks & Rec,75.32,33.0,0.7
+CARD_0600,Parks & Rec,90.27,31.0,0.54
+CARD_0601,Parks & Rec,111.97,38.0,0.49
+CARD_0602,Parks & Rec,52.57,24.0,0.68
+CARD_0603,Parks & Rec,57.24,21.0,0.64
+CARD_0604,Parks & Rec,39.06,23.0,0.55
+CARD_0605,Parks & Rec,90.82,31.0,0.47
+CARD_0606,Parks & Rec,62.04,30.0,0.54
+CARD_0607,Parks & Rec,80.39,29.0,0.6
+CARD_0608,Parks & Rec,106.53,22.0,0.69
+CARD_0609,Parks & Rec,73.96,32.0,0.52
+CARD_0610,Parks & Rec,95.78,22.0,0.59
+CARD_0611,Parks & Rec,82.52,34.0,0.65
+CARD_0612,Parks & Rec,106.8,42.0,0.41
+CARD_0613,Parks & Rec,101.88,30.0,0.68
+CARD_0614,Parks & Rec,72.7,31.0,0.51
+CARD_0615,Parks & Rec,85.78,26.0,0.63
+CARD_0616,Parks & Rec,116.09,19.0,0.62
+CARD_0617,Parks & Rec,99.83,25.0,0.69
+CARD_0618,Parks & Rec,55.08,23.0,0.64
+CARD_0619,Parks & Rec,106.39,21.0,0.41
+CARD_0620,Parks & Rec,62.88,37.0,0.54
+CARD_0621,Parks & Rec,125.31,29.0,0.61
+CARD_0622,Parks & Rec,115.6,30.0,0.58
+CARD_0623,Parks & Rec,97.25,26.0,0.64
+CARD_0624,Parks & Rec,93.93,27.0,0.66
+CARD_0625,Parks & Rec,84.77,33.0,0.65
+CARD_0626,Parks & Rec,106.96,28.0,0.58
+CARD_0627,Parks & Rec,80.73,31.0,0.45
+CARD_0628,Parks & Rec,95.89,27.0,0.56
+CARD_0629,Parks & Rec,111.8,26.0,0.63
+CARD_0630,Parks & Rec,75.95,21.0,0.51
+CARD_0631,Parks & Rec,74.6,18.0,0.65
+CARD_0632,Parks & Rec,60.14,27.0,0.67
+CARD_0633,Parks & Rec,63.39,28.0,0.61
+CARD_0634,Parks & Rec,44.29,22.0,0.35
+CARD_0635,Parks & Rec,108.25,28.0,0.5
+CARD_0636,Parks & Rec,135.22,28.0,0.75
+CARD_0637,Parks & Rec,125.63,17.0,0.56
+CARD_0638,Parks & Rec,49.35,23.0,0.44
+CARD_0639,Parks & Rec,108.12,30.0,0.7
+CARD_0640,Parks & Rec,125.55,30.0,0.6
+CARD_0641,Parks & Rec,78.58,22.0,0.69
+CARD_0642,Parks & Rec,92.54,29.0,0.62
+CARD_0643,Parks & Rec,39.8,33.0,0.64
+CARD_0644,Parks & Rec,96.67,32.0,0.63
+CARD_0645,Parks & Rec,63.41,28.0,0.66
+CARD_0646,Parks & Rec,94.99,26.0,0.78
+CARD_0647,Parks & Rec,50.97,25.0,0.68
+CARD_0648,Parks & Rec,103.57,30.0,0.47
+CARD_0649,Parks & Rec,115.61,29.0,0.64
+CARD_0650,Parks & Rec,70.42,31.0,0.69
+CARD_0651,Parks & Rec,61.58,29.0,0.7
+CARD_0652,Parks & Rec,36.1,32.0,0.57
+CARD_0653,Parks & Rec,83.34,28.0,0.69
+CARD_0654,Parks & Rec,75.46,32.0,0.67
+CARD_0655,Parks & Rec,51.22,32.0,0.8
+CARD_0656,Parks & Rec,101.33,24.0,0.54
+CARD_0657,Parks & Rec,78.75,19.0,0.56
+CARD_0658,Parks & Rec,63.11,36.0,0.58
+CARD_0659,Parks & Rec,76.14,29.0,0.56
+CARD_0660,Parks & Rec,116.78,19.0,0.53
+CARD_0661,Parks & Rec,105.07,24.0,0.38
+CARD_0662,Parks & Rec,86.75,32.0,0.57
+CARD_0663,Parks & Rec,105.48,27.0,0.63
+CARD_0664,Parks & Rec,60.98,25.0,0.56
+CARD_0665,Parks & Rec,90.81,35.0,0.75
+CARD_0666,Parks & Rec,93.68,23.0,0.6
+CARD_0667,Parks & Rec,78.25,24.0,0.7
+CARD_0668,Parks & Rec,100.89,29.0,0.62
+CARD_0669,Parks & Rec,70.49,30.0,0.67
+CARD_0670,Parks & Rec,102.75,30.0,0.62
+CARD_0671,Parks & Rec,103.8,33.0,0.71
+CARD_0672,Parks & Rec,17.07,29.0,0.6
+CARD_0673,Parks & Rec,119.76,30.0,0.64
+CARD_0674,Parks & Rec,13.81,27.0,0.63
+CARD_0675,Parks & Rec,74.6,28.0,0.58
+CARD_0676,Parks & Rec,115.63,29.0,0.63
+CARD_0677,Parks & Rec,82.07,29.0,0.78
+CARD_0678,Parks & Rec,53.35,32.0,0.58
+CARD_0679,Parks & Rec,62.66,31.0,0.63
+CARD_0680,Parks & Rec,115.67,28.0,0.7
+CARD_0681,Parks & Rec,41.96,24.0,0.69
+CARD_0682,Parks & Rec,118.22,28.0,0.6
+CARD_0683,Parks & Rec,88.62,28.0,0.41
+CARD_0684,Parks & Rec,60.19,29.0,0.64
+CARD_0685,Parks & Rec,75.42,39.0,0.42
+CARD_0686,Parks & Rec,64.57,25.0,0.72
+CARD_0687,Parks & Rec,111.66,30.0,0.61
+CARD_0688,Parks & Rec,108.31,33.0,0.68
+CARD_0689,Parks & Rec,47.02,28.0,0.53
+CARD_0690,Parks & Rec,79.91,40.0,0.48
+CARD_0691,Parks & Rec,68.42,26.0,0.62
+CARD_0692,Parks & Rec,122.34,30.0,0.6
+CARD_0693,Parks & Rec,56.25,24.0,0.56
+CARD_0694,Parks & Rec,130.11,26.0,0.61
+CARD_0695,Parks & Rec,89.17,29.0,0.8
+CARD_0696,Parks & Rec,60.95,32.0,0.67
+CARD_0697,Parks & Rec,73.07,30.0,0.68
+CARD_0698,Parks & Rec,69.96,34.0,0.67
+CARD_0699,Parks & Rec,58.13,28.0,0.72
+CARD_0700,Parks & Rec,92.37,26.0,0.58
+CARD_0701,Field Marketing,750.45,27.0,0.2
+CARD_0702,Field Marketing,71.32,4.0,0.54
+CARD_0703,Administration,1210.62,47.0,0.48
+CARD_0704,Field Marketing,1982.93,7.0,0.57
+CARD_0705,Parks & Rec,552.35,11.0,0.05
+CARD_0706,Field Marketing,419.51,39.0,0.4
+CARD_0707,Administration,291.66,6.0,0.58
+CARD_0708,Field Marketing,1132.75,45.0,0.59
+CARD_0709,Administration,1213.07,37.0,0.66
+CARD_0710,Administration,1594.93,4.0,0.72
+CARD_0711,Parks & Rec,1518.49,35.0,0.64
+CARD_0712,Administration,1790.46,32.0,0.79
+CARD_0713,Field Marketing,1621.26,38.0,0.62
+CARD_0714,Field Marketing,532.17,42.0,0.54
+CARD_0715,Parks & Rec,1133.96,36.0,0.61
+CARD_0716,Field Marketing,629.95,30.0,0.1
+CARD_0717,Parks & Rec,693.08,17.0,0.27
+CARD_0718,Parks & Rec,1867.29,35.0,0.53
+CARD_0719,Administration,1379.7,48.0,0.87
+CARD_0720,Parks & Rec,1950.45,30.0,0.68
+CARD_0721,Field Marketing,862.98,34.0,0.09
+CARD_0722,Parks & Rec,1098.0,22.0,0.59
+CARD_0723,Parks & Rec,999.88,38.0,0.22
+CARD_0724,Field Marketing,259.21,50.0,0.73
+CARD_0725,Administration,511.57,9.0,0.83
