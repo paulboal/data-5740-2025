@@ -5,9 +5,11 @@ import math
 class SimpleT(Scene):
     def construct(self):
         # ---------- PARAMETERS YOU CAN TWEAK ----------
-        MU1 = -1
-        MU2 = 1
-        SIGMA_START = 0.4
+        MU1_START = -1
+        MU1_END = 0
+        MU2_START = 1
+        MU2_END = 0
+        SIGMA_START = 1
         SIGMA_END = 2.2
         # ------------------------------------------------
 
@@ -24,6 +26,8 @@ class SimpleT(Scene):
 
         # A tracker for sigma so we can animate it
         sigma_tracker = ValueTracker(SIGMA_START)
+        mu1_tracker = ValueTracker(MU1_START)
+        mu2_tracker = ValueTracker(MU2_START)
 
         # Normal pdf helper
         def normal_pdf(x, mu, sigma):
@@ -32,6 +36,7 @@ class SimpleT(Scene):
         # Curves that update with sigma
         def get_curve_mu1():
             sigma = sigma_tracker.get_value()
+            MU1 = mu1_tracker.get_value()
             curve = axes.plot(
                 lambda x: normal_pdf(x, MU1, sigma),
                 x_range=[-6, 6],
@@ -47,6 +52,7 @@ class SimpleT(Scene):
 
         def get_curve_mu2():
             sigma = sigma_tracker.get_value()
+            MU2 = mu2_tracker.get_value()
             return axes.plot(
                 lambda x: normal_pdf(x, MU2, sigma),
                 x_range=[-6, 6],
@@ -76,13 +82,13 @@ class SimpleT(Scene):
 
         z_text = always_redraw(
             lambda: MathTex(
-                r"z = \frac{|" + f"{MU2} - {MU1}" + r"|}{\sigma} = " + f"{abs(MU2 - MU1)/sigma_tracker.get_value():.2f}"
+                r"z = \frac{|" + f"{mu2_tracker.get_value()} - {mu1_tracker.get_value()}" + r"|}{\sigma} = " + f"{abs(mu2_tracker.get_value() - mu1_tracker.get_value())/sigma_tracker.get_value():.2f}"
             ).scale(0.7).to_corner(DOWN + LEFT)
         )
 
         p_text = always_redraw(
             lambda: MathTex(
-                r"p = " + f"{2*(1 - phi(abs(MU2 - MU1)/sigma_tracker.get_value())):.3f}"
+                r"p = " + f"{2*(1 - phi(abs(mu2_tracker.get_value() - mu1_tracker.get_value())/sigma_tracker.get_value())):.3f}"
             ).scale(0.7).next_to(z_text, DOWN, aligned_edge=LEFT)
         )
 
@@ -96,8 +102,16 @@ class SimpleT(Scene):
 
         # ---------- ANIMATE: sigma from small → large ----------
         self.play(
-            sigma_tracker.animate.set_value(SIGMA_END),
-            run_time=15,
+            # sigma_tracker.animate.set_value(SIGMA_END),
+            mu1_tracker.animate.set_value(MU1_END),
+            run_time=3,
+            rate_func=rate_functions.linear
+        )
+
+        self.play(
+            # sigma_tracker.animate.set_value(SIGMA_END),
+            mu2_tracker.animate.set_value(MU2_END),
+            run_time=3,
             rate_func=rate_functions.linear
         )
 
